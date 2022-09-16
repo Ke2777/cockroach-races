@@ -1,0 +1,21 @@
+C:\Users\Ростислав\source\repos\Часы\Часы\bin\Debug\Часы.exe.config
+C:\Users\Ростислав\source\repos\Часы\Часы\bin\Debug\Часы.exe
+C:\Users\Ростислав\source\repos\Часы\Часы\bin\Debug\Часы.pdb
+C:\Users\Ростислав\source\repos\Часы\Часы\obj\Debug\Часы.csprojAssemblyReference.cache
+C:\Users\Ростислав\source\repos\Часы\Часы\obj\Debug\Часы.Form1.resources
+C:\Users\Ростислав\source\repos\Часы\Часы\obj\Debug\Часы.Properties.Resources.resources
+C:\Users\Ростислав\source\repos\Часы\Часы\obj\Debug\Часы.csproj.GenerateResource.cache
+C:\Users\Ростислав\source\repos\Часы\Часы\obj\Debug\Часы.csproj.CoreCompileInputs.cache
+C:\Users\Ростислав\source\repos\Часы\Часы\obj\Debug\Часы.exe
+C:\Users\Ростислав\source\repos\Часы\Часы\obj\Debug\Часы.pdb
+D:\Download\Google Drive\Часы\Часы\bin\Debug\Часы.exe.config
+D:\Download\Google Drive\Часы\Часы\bin\Debug\Часы.exe
+D:\Download\Google Drive\Часы\Часы\bin\Debug\Часы.pdb
+D:\Download\Google Drive\Часы\Часы\obj\Debug\Часы.csproj.AssemblyReference.cache
+D:\Download\Google Drive\Часы\Часы\obj\Debug\Часы.csproj.SuggestedBindingRedirects.cache
+D:\Download\Google Drive\Часы\Часы\obj\Debug\Часы.Form1.resources
+D:\Download\Google Drive\Часы\Часы\obj\Debug\Часы.Properties.Resources.resources
+D:\Download\Google Drive\Часы\Часы\obj\Debug\Часы.csproj.GenerateResource.cache
+D:\Download\Google Drive\Часы\Часы\obj\Debug\Часы.csproj.CoreCompileInputs.cache
+D:\Download\Google Drive\Часы\Часы\obj\Debug\Часы.exe
+D:\Download\Google Drive\Часы\Часы\obj\Debug\Часы.pdb
